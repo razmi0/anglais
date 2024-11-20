@@ -57,4 +57,4 @@ Build subject for ech scenario :
 
 - scenario 4
   - [Website name] : New features added - [Feature name]
-  - [Website name] : Your website has been updated with a new feature
+  - [Website name] : Your website has been updated with a new feature - [Feature name]
